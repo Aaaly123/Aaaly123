@@ -71,6 +71,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaaly123&theme=tokyonight" alt="GitHub Streak" width="45%"/>  
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaaly123&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+</p>
+
+
 ---
 
 ## 🧩 **Featured Projects**
