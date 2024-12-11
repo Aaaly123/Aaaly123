@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Aliyan Ahmed Naqvi**! 🌟  
 
-![Welcome Banner](https://i.imgur.com/Z7fvzh3.gif)
+![Welcome Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 🚀 **Exploring the endless possibilities of code** | 🧠 **Learning every day** | 🎯 **Building cool things**
 
